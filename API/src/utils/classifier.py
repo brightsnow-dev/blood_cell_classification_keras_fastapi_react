@@ -1,5 +1,4 @@
 ####
-
 #       Módulo para classificação da imagem já preprocessada
 ####
 
