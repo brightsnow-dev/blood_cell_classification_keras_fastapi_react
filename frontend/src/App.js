@@ -1,3 +1,4 @@
+
 /* 
   Aplicativo webclient para enviar imagens de células ao servidor e retornar
   a classificação da imagem ao usuário.
